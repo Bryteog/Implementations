@@ -4,10 +4,7 @@ Implementation of foundational ML papers and algorithms
 
 ### Neural Style Transfer.
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="images/flower.jpg">
- <source media="(prefers-color-scheme: light)" srcset="style2.jpg">
-  <source media="(prefers-color-scheme: dark)" srcset="generatedimage.png">
- <img alt="Image showing the predicted labels and actual labels of 50 MRI images" src="style2.jpg">
-</picture>
+
 <img src="images/flower.jpg" width="350">
+<img src="images/"style2.jpg" width="350">
+<img src="images/generatedimage.png" width="350">
