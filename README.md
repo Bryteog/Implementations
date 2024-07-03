@@ -1,8 +1,8 @@
-# Implementations
+## Implementations
 Implementation of foundational ML papers and algorithms
 
 
-# For Neural Style Transfer.
+### Neural Style Transfer.
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="flower.jpg">
