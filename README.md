@@ -6,5 +6,5 @@ Implementation of foundational ML papers and algorithms
 
 
 <img src="images/flower.jpg" width="350">
-<img src="images/"style2.jpg" width="350">
+<img src="images/style2.jpg" width="350">
 <img src="images/generatedimage.png" width="350">
