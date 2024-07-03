@@ -1,7 +1,7 @@
 ## Implementations
 Implementation of foundational ML papers and algorithms
 
-
+---
 ### Neural Style Transfer.
 Style Image + Content Image = Generated Image
 
