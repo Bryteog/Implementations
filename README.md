@@ -3,7 +3,7 @@ Implementation of foundational ML papers and algorithms
 
 
 ### Neural Style Transfer.
-Style Image &nbsp; &nbsp;&nbsp; &nbsp; + &nbsp; &nbsp;&nbsp; &nbsp; Content Image  &nbsp; &nbsp;&nbsp; &nbsp;=&nbsp; &nbsp;&nbsp; &nbsp; Generated Image
+Style Image + Content Image = Generated Image
 
 <div>
 <img src="images/flower.jpg" width="350">
