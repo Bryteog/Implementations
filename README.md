@@ -10,3 +10,4 @@ Implementation of foundational ML papers and algorithms
   <source media="(prefers-color-scheme: dark)" srcset="generatedimage.png">
  <img alt="Image showing the predicted labels and actual labels of 50 MRI images" src="style2.jpg">
 </picture>
+<img src="images/flower.jpg" width="350">
