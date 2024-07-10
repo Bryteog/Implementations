@@ -11,5 +11,6 @@ Style Image + Content Image = Generated Image
  <img src="images/generatedimage.png" width="310">
 </div>
  &nbsp; &nbsp;&nbsp; &nbsp;
-  ---
+ 
+ ---
 ### Simple GAN's
