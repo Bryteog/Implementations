@@ -12,3 +12,4 @@ Style Image + Content Image = Generated Image
 </div>
  &nbsp; &nbsp;&nbsp; &nbsp;
  
+### Simple GAN's
