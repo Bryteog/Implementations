@@ -14,8 +14,8 @@ Style Image + Content Image = Generated Image
  
  ---
 ### Simple GAN's
-Pending
+#### Pending
  ---
  ### Deep Convolutional GAN's
-Pending
+#### Pending
 ---
